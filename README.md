@@ -11,7 +11,6 @@ The code is functional, but there are plans for improvements in future commits.
 
 ## Next Steps / Planned Updates
 
-- **Code Organization:** Refactor the code into separate classes for better structure.  
 - **Additional Sorting Algorithms:** Implement more sorting methods and add a start screen/interface.  
 
 ## Notes
